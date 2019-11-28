@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Circulo
+namespace Circulo //
 {
     class Circulo
     {
